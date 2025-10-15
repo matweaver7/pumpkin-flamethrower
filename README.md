@@ -1,3 +1,11 @@
+# Pumpkin Flamethrower
+
+Ever wanted a super dumb and dangerous pumpkin that shoots flames out of it's mouth? Yeah. Me neither. But here it is anyway.
+
+### Design
+
+
+```
  +-------------------------+
           |       5V Adapter        |
           |   (5V 2A or 3A output)  |
@@ -24,3 +32,4 @@
      ^  
      | (optional)
      | can be fed by same 5V adapter if it’s 2A+ rated
+```
